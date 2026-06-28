@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0120-triangle](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [2751-robot-collisions](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -61,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0120-triangle](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Binary Search
