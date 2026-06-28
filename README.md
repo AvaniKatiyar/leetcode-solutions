@@ -12,6 +12,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Binary Search
@@ -107,4 +109,8 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
