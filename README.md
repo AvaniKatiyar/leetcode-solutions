@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0120-triangle](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [2751-robot-collisions](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -58,6 +59,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [2751-robot-collisions](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -142,6 +144,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0027-remove-element](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
