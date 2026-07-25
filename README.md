@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Matrix
@@ -27,6 +28,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -40,6 +42,7 @@
 | [0020-valid-parentheses](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -148,4 +151,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
