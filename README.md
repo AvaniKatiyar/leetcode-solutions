@@ -45,6 +45,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0205-isomorphic-strings](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0205-isomorphic-strings](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sorting
