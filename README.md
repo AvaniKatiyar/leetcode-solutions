@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0120-triangle](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [2751-robot-collisions](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -95,6 +96,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -104,6 +106,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -128,6 +131,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -166,4 +170,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
