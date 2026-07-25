@@ -98,6 +98,7 @@
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0190-reverse-bits](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -172,6 +173,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
