@@ -36,6 +36,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -62,6 +63,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0027-remove-element](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0344-reverse-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
