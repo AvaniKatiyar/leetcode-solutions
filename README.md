@@ -31,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0242-valid-anagram](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -67,6 +68,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -124,6 +126,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0344-reverse-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
