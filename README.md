@@ -58,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AvaniKatiyar/avi_portfolio/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -165,6 +166,7 @@
 | [0027-remove-element](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -190,4 +192,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
