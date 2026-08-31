@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
@@ -57,6 +58,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/AvaniKatiyar/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
